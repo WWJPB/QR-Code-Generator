@@ -5,7 +5,7 @@
 ## General info
 It is a qr code generator with a simple graphical user interface.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/20GPolB" data-context="false" ><a href="//imgur.com/a/20GPolB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/a/20GPolB.png">
 
 Paste the link in the provided field and then click the 'Save' button.
 ## Technologies
