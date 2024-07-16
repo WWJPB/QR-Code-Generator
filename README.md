@@ -7,7 +7,7 @@ It is a qr code generator with a simple graphical user interface.
 
 ![qr](https://github.com/user-attachments/assets/389d60b4-2736-4145-b0f9-e04b5d093b47)
 
-Paste the link in the provided field and then click the 'Save' button.
+Paste the link in the provided field and then click the 'Save' button. Generated QR codes are saved on Desktop.
 ## Technologies
 Project created in Python 3.11.5
 
