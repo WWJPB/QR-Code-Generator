@@ -5,7 +5,7 @@
 ## General info
 It is a qr code generator with a simple graphical user interface.
 
-<img src="https://i.imgur.com/a/20GPolB.png">
+![qr](https://github.com/user-attachments/assets/389d60b4-2736-4145-b0f9-e04b5d093b47)
 
 Paste the link in the provided field and then click the 'Save' button.
 ## Technologies
